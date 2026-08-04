@@ -1,4 +1,4 @@
-## Loves Python
+Loves Python
 Loves tech
 Big Avgeek
 Big fan of Enola Holmes films
