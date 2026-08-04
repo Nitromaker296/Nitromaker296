@@ -1,4 +1,12 @@
-## Hi there 👋
+## Loves Python
+Loves tech
+Big Avgeek
+Big fan of Enola Holmes films
+Loves Lego
+Loves Star Wars
+Loves Dinosaurs
+Loves the game SCP:RP
+Likes Sci
 
 <!--
 **Nitromaker296/Nitromaker296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
