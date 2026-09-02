@@ -1,3 +1,5 @@
+What I like !:
+
 Loves Python
 Loves tech
 Big Avgeek
@@ -8,6 +10,13 @@ Loves Dinosaurs
 Loves the game SCP:RP
 Likes Sci
 
+
+
+What I'm currently working on !:
+
+- Learning and mastering intermediate python
+
+![My Skills](https://skillicons.dev/icons?i=python,cpp,js,arduino,git)
 <!--
 **Nitromaker296/Nitromaker296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
