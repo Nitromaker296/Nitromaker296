@@ -1,26 +1,30 @@
-What I like !:
+# Hello, I'm Nitro. It's surprising you're reading this, so thanks for coming here!
 
-Python 
+---
 
-Tech
+## What I like !:
 
-Avgeek!
+**Python** 
 
-Enola Holmes film franchise (it's just… so fire 🔥)
+**Tech**
 
-Lego!
+**Avgeek!**
 
-Star Wars!
+**Enola Holmes film franchise** (it's just… so fire 🔥)
 
-Dinosaurs! (would be a palaeontologist if I weren't so invested in CS)
+**Lego!**
 
-The game SCP:RP on Roblox! (I love SCPs)
+**Star Wars!**
 
-Science! (except chemistry 😵‍💫)
+**Dinosaurs!** (would be a palaeontologist if I weren't so invested in CS)
+
+**The game SCP:RP on Roblox!** (I love SCPs)
+
+**Science!** (except chemistry 😵‍💫)
 
 
 
-What I'm currently working on !:
+## What I'm currently working on !:
 
 - Learning and mastering intermediate python 
 
