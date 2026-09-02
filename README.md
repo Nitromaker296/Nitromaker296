@@ -1,4 +1,4 @@
-# Hello, I'm Nitro. It's surprising you're reading this, so thanks for coming here!
+## Hello 👋, I'm Nitro. It's surprising you're reading this, so thanks for coming here!
 
 ---
 
