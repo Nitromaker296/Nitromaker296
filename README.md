@@ -26,7 +26,7 @@
 
 ## What I'm currently working on !:
 
-- Learning and mastering intermediate python ![My Skills](https://skillicons.dev/icons?i=python,cpp,git)
+- Learning and mastering intermediate python 
 
 
 
