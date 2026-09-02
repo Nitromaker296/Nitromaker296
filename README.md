@@ -14,7 +14,7 @@ Likes Sci
 
 What I'm currently working on !:
 
-- Learning and mastering intermediate python [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Learning and mastering intermediate python 
 
 
 <!--
