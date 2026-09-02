@@ -1,20 +1,28 @@
 What I like !:
 
-Loves Python
+Loves Python 
+
 Loves tech
+
 Big Avgeek
+
 Big fan of Enola Holmes films
+
 Loves Lego
+
 Loves Star Wars
+
 Loves Dinosaurs
+
 Loves the game SCP:RP
+
 Likes Sci
 
 
 
 What I'm currently working on !:
 
-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Learning and mastering intermediate python 
+- Learning and mastering intermediate python 
 
 
 <!--
