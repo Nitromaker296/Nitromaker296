@@ -1,22 +1,22 @@
 What I like !:
 
-Loves Python 
+Python 
 
-Loves tech
+Tech
 
-Big Avgeek
+Avgeek!
 
-Big fan of Enola Holmes films
+Enola Holmes film franchise (it's just… so fire 🔥)
 
-Loves Lego
+Lego!
 
-Loves Star Wars
+Star Wars!
 
-Loves Dinosaurs
+Dinosaurs! (would be a palaeontologist if I weren't so invested in CS)
 
-Loves the game SCP:RP
+The game SCP:RP on Roblox! (I love SCPs)
 
-Likes Sci
+Science! (except chemistry 😵‍💫)
 
 
 
@@ -24,7 +24,6 @@ What I'm currently working on !:
 
 - Learning and mastering intermediate python 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
 <!--
 **Nitromaker296/Nitromaker296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
